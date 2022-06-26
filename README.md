@@ -1,8 +1,27 @@
-# Keep-Me-Clean
-Participating in SIH-2022, Idea is for Clean &amp; Green Technology, AICTE-Student Innovation
+# AD-Project-
+Academic project submission fourth semester  
 
-ABSTRACT
+<h1>&#127759; &nbsp;Abstract </h1>
+
 In India, everyone knows the conditions of Garbage disposal, Road damage, Sewage damage, etc., these Problems are affecting our daily life and We don’t have a proper complaint system to solve the Issue as-fast-as-possible. So, Here comes our application to solve the problems related to a particular Issue. In our application users have to select the issue and the next step is to upload the images or videos and the final step is to submit the issue. These submitted Issues are updated on the map with the exact location of the user with a red dot and these red dots are visible to every user of the application. The next process is to solve the Issue, The Municipal worker’s team will identify the red dots visible on the map and solve the problem.
 
-Description
-As India is ranked 168th among 180th Countries on Environment Performance Index (EPI) with a score of 27.6 out of 100. This is the reason Why we are developing an application for users to complain about the issues to the Government. In this application, the users can complain directly to the Government. To install the application the user has to download the application from various App-Stores, after successfully downloading the application, the user has to sign-up using (Google Account or Mobile Number), after completing the sign-up process the user comes to the application interface, which is similar to Google maps. In the next process, the user can complain and also use the application to search the locations and also other features available on Google Maps. The next process is to complain about an issue, the user has to click on the map at the exact location, and a square box appears on the map. In the square box, the user has to select the issues (Clean garbage, Road damage, Sewage damages, etc.) and the next process is to upload the images and videos of the issue and also user can describe the issue in the description area and final process is to submit the issue. After submitting the issue, a red dot is marked on the map and by this process, the user has successfully complained about the issue. The next process is to solve the issue, The Municipal worker’s team will identify the red dots visible on the map and solve the problem.
+
+<h1> <b> Main WEBSITE Pictures </b> </h1>
+
+The Website contents all the details about the project - <a href="https://kmcproject.blogspot.com">Website Link</a>
+
+
+<img src="images/01_website%20interface.png" width="22%" height="8%" >      <img src="images/02_description.png" width="22%" height="10%" >     <img src="images/03_application%20interface.png" width="22%" height="10%" >        <img src="images/04_about.png" width="22%" height="10%" >
+
+
+<h1> <b>&bull; &nbsp; Application Interface - I Pictures </b> </h1>
+
+Interface I Website - <a href="https://applicationinterfacekmc.blogspot.com">Website Link</a>
+
+<img src="images/06_ai_1_01.png" width="22%" height="8%" >  <img src="images/07_ai_1_02.png" width="22%" height="8%" >  <img src="images/08_ai_1.png" width="22%" height="8%" >  
+
+<h1> <b>&bull; &nbsp; Application Interface - II Pictures </b> </h1>
+
+Interface II Website - <a href="https://kmcapplicationinterface2.blogspot.com">Website Link</a>
+
+<img src="images/05_ai_2.png" width="22%" height="8%" >  
